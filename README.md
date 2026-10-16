@@ -1,7 +1,6 @@
 # Stock Market Prediction & Analytics Dashboard
-### B.Tech 3rd-Year Machine Learning Capstone (23CSE301)
 
-A complete, end-to-end Machine Learning pipeline and interactive analytical dashboard covering three problem tracks: **Regression**, **Classification**, and **Clustering**. The repository contains full data preprocessing, exploratory data analysis (EDA), model training, hyperparameter tuning, benchmark comparison, and an interactive web GUI located in `/app`.
+A complete, end-to-end Machine Learning pipeline and interactive analytical dashboard covering three problem tracks: **Regression**, **Classification**, and **Clustering**. The repository contains full data preprocessing, exploratory data analysis (EDA), model training, hyperparameter tuning, benchmark comparison, and an interactive web GUI.
 
 ---
 
@@ -54,20 +53,4 @@ Stock-Market-Prediction/
 ---
 
 ## Running the Web GUI (`/app`)
-
-### 1. Local Execution
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Launch the Streamlit dashboard:
-   ```bash
-   streamlit run app/app.py
-   ```
-3. Or double-click `run_app.bat` on Windows.
-4. Open your browser to `http://localhost:8501`.
-
-### 2. Streamlit Cloud Deployment
-1. Connect this repository on [share.streamlit.io](https://share.streamlit.io).
-2. Set **Main file path** to `app/app.py`.
-3. Click **Deploy!**
+LINK : https://stock-market-prediction-xh9zzt82ysrvn8xmp2d2vw.streamlit.app/
